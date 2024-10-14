@@ -1,0 +1,7 @@
+{
+    "_id": "ObjectId",
+    "nombres": "string",
+    "estado": "string",
+    "fecha_creacion": "date",
+    "fecha_actualizacion": "date"
+  }

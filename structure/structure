@@ -1,0 +1,15 @@
+/project-root
+  /models
+    genero.js
+    director.js
+    productora.js
+    tipo.js
+    media.js
+  /routes
+    genero.js
+    director.js
+    productora.js
+    tipo.js
+    media.js
+  app.js
+  .env

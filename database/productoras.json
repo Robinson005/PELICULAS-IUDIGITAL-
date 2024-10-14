@@ -1,0 +1,9 @@
+{
+    "_id": "ObjectId",
+    "nombre": "string",
+    "estado": "string",
+    "fecha_creacion": "date",
+    "fecha_actualizacion": "date",
+    "slogan": "string",
+    "descripcion": "string"
+  }

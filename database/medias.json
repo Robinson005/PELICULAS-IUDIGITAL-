@@ -1,0 +1,15 @@
+{
+    "_id": "ObjectId",
+    "serial": "string",
+    "titulo": "string",
+    "sinopsis": "string",
+    "url_pelicula": "string",
+    "imagen_portada": "string",
+    "fecha_creacion": "date",
+    "fecha_actualizacion": "date",
+    "año_estreno": "number",
+    "genero_principal": "ObjectId",
+    "director_principal": "ObjectId",
+    "productora": "ObjectId",
+    "tipo": "ObjectId"
+  }
